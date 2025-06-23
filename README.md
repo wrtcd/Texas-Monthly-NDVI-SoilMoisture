@@ -40,4 +40,6 @@ The final CSV file contains the following columns:
 
 ## License
 
-This project is released under the MIT License.
+This dataset is derived from publicly available sources including NASA SMAP Level-4 products and Copernicus Sentinel-2 imagery via Google Earth Engine.  
+Please cite NASA and the European Space Agency (ESA) appropriately when using or referencing this dataset.  
+The state boundary is based on U.S. Census TIGER/Line shapefiles.
